@@ -4,7 +4,7 @@ Task: Electricity prices forecasting, using belgium day-ahead market as an examp
 
 Feature Engineering: There are two ways of feature engineering. The first one is multi-step forecasting that consecutive data points in chronological order are used. The other is one-step forecasting that the task is tranformed to predict one target value instead.
 
-![One-step Forecasting](https://github.com/Zhihao9/EletrcicityPricesForecasting/blob/main/electricityprices.png)
+![One-step Forecasting](https://github.com/Zhihao9/EletrcicityPricesForecasting/blob/main/OneStep-day.ipynb)
 
 ![Multi-step Forecasting](https://github.com/Zhihao9/EletrcicityPricesForecasting/blob/main/FEmultistep.png)
 
